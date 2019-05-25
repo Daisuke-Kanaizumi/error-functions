@@ -3,15 +3,9 @@ programs for error functions
 
 Thank you for checking my programs.
 
-Programs in this repository are made to calculate error functions with guaranteed accuracy.
-
-If you use my programs in publications, please include the following reference.
-
-Daisuke Kanaizumi, Verified numerical computation methods for q-special functions and q-series, Bachelor thesis, Department of Applied Mathematics, Waseda University (Japanese document)
+Programs in this repository are made to calculate error functions (complex variables) with guaranteed accuracy.
 
 You do NOT have to inform your usage to me, but I am very glad to hear how my programs helped you.
-
-I have a plan to translate my thesis in English, but this may take more time. I apologize for the inconvenience.
 
 (Requirements)
 
@@ -26,3 +20,17 @@ https://github.com/mskashi/kv
 Boost C++ Libraries http://www.boost.org/
 
 DISCLAIMER: Extensive tests have been performed to ensure reliability of the algorithms (under Windows 10 with Visual Studio 2015, and Linux). However, neither an error-free processor nor an error-free program can be guaranteed.
+
+(References for Validated Numerics and Interval Arithmetic)
+
+S.M. Rump: INTLAB - INTerval LABoratory. In Tibor Csendes, editor, Developments in Reliable Computing, pages 77-104. Kluwer Academic Publishers, Dordrecht, 1999.
+
+Tucker, W. (2011). Validated numerics: a short introduction to rigorous computations. Princeton University Press.
+
+Mayer, G. (2017). Interval analysis: and automatic result verification (Vol. 65). Walter de Gruyter GmbH & Co KG.
+
+Alefeld, G., & Herzberger, J. (2012). Introduction to Interval Computation. Academic Press.
+
+Moore, R. E., Kearfott, R. B., & Cloud, M. J. (2009). Introduction to Interval Analysis (Vol. 110). SIAM.
+
+Jaulin, L., Kieffer, M., Didrit, O., & Walter, E. (2001). Applied Interval Analysis. Springer, London.
