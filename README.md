@@ -34,3 +34,11 @@ Alefeld, G., & Herzberger, J. (2012). Introduction to Interval Computation. Acad
 Moore, R. E., Kearfott, R. B., & Cloud, M. J. (2009). Introduction to Interval Analysis (Vol. 110). SIAM.
 
 Jaulin, L., Kieffer, M., Didrit, O., & Walter, E. (2001). Applied Interval Analysis. Springer, London.
+
+(References about numerical methods for mathematical functions)
+
+Muller, (2016). Elementary Functions -Algorithms and Implementation (3rd ed.). Birkhauser.
+
+Gil, A., Segura, J., & Temme, N. M. (2007). Numerical methods for special functions (Vol. 99). SIAM.
+
+Marcellán, F. (2006). Orthogonal polynomials and special functions: computation and applications (No. 1883). Springer Science & Business Media.
