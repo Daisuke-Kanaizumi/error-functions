@@ -25,6 +25,8 @@ DISCLAIMER: Extensive tests have been performed to ensure reliability of the alg
 
 S.M. Rump: INTLAB - INTerval LABoratory. In Tibor Csendes, editor, Developments in Reliable Computing, pages 77-104. Kluwer Academic Publishers, Dordrecht, 1999.
 
+Kulisch, U., Lohner, R., & Facius, A. (Eds.). (2012). Perspectives on Enclosure Methods. Springer Science & Business Media.
+
 Tucker, W. (2011). Validated numerics: a short introduction to rigorous computations. Princeton University Press.
 
 Mayer, G. (2017). Interval analysis: and automatic result verification (Vol. 65). Walter de Gruyter GmbH & Co KG.
